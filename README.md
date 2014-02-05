@@ -1,5 +1,28 @@
 This repo contains a SH script to setup a LEMP Server for Phalcon PHP development. 
 
+### Script Contains
+
+1. Essentials
+    * git-core
+    * vim
+    * make, gcc, auto-conf
+1. Nginx
+1. MySQL
+1. PHP
+    * php5-cli
+    * php5-dev
+    * php5-fpm
+    * php5-mysql
+    * php5-curl
+    * php5-memcache
+    * php5-gd
+    * php5-mcrypt
+    * php5-xmlrpc
+    * php5-sqlite
+   
+***
+
+
 ### Setup Guide
 
 * Make sure you have already installed Vagrant to continue. more at [vagrantup.com](http://www.vagrantup.com/downloads.html)
@@ -57,22 +80,4 @@ $ sh create-server.sh
 
 
 
-### Script Contains
 
-1. Essentials
-    * git-core
-    * vim
-    * make, gcc, auto-conf
-1. Nginx
-1. MySQL
-1. PHP
-    * php5-cli
-    * php5-dev
-    * php5-fpm
-    * php5-mysql
-    * php5-curl
-    * php5-memcache
-    * php5-gd
-    * php5-mcrypt
-    * php5-xmlrpc
-    * php5-sqlite
