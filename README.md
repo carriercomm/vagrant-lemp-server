@@ -1,5 +1,19 @@
-vagrant-lemp-server
-===================
+### Script Contains
 
-SH Script for install and configure a blank Vargrant machine for development with Phalcon PHP using LEMP. 
-Linux+Nginx+MySQL+PHP FPM and Phalcon PHP
+1. Essentials
+    * git-core
+    * vim
+    * make, gcc, auto-conf
+1. Nginx
+1. MySQL
+1. PHP
+    * php5-cli
+    * php5-dev
+    * php5-fpm
+    * php5-mysql
+    * php5-curl
+    * php5-memcache
+    * php5-gd
+    * php5-mcrypt
+    * php5-xmlrpc
+    * php5-sqlite
