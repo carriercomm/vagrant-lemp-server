@@ -1,4 +1,6 @@
-This repo contains a SH script to setup a LEMP Server for Phalcon PHP development. 
+This repo contains a SH script to setup a LEMP Server { Linux + Nginx + MySQL + PHP FPM } for Phalcon PHP development environment.
+
+
 
 ### Script Contains
 
