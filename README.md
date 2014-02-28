@@ -11,6 +11,7 @@ This repo contains a SH script to setup a LEMP Server { Linux + Nginx + MySQL + 
 1. Nginx
 1. MySQL
 1. PHP
+    * Phalcon PHP
     * php5-cli
     * php5-dev
     * php5-fpm
@@ -74,6 +75,7 @@ $ sh create-server.sh
 2. **PHP INFO at:** http://192.168.10.10/info.php
 3. **display_errors:** on;
 4. **short_open_tags:** on;
+5. **added extension:** phalcon.so;
 
 ### Notes for MySQL ###
 
